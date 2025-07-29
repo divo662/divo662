@@ -158,7 +158,7 @@ I'm always interested in:
 **Get in touch:**
 - 📧 **Email**: divzeh001@email.com
 - 💼 **LinkedIn**: [Divine Nzeh](https://www.linkedin.com/in/divine-nzeh-86201b255/)
-- 🌐 **Portfolio**: [Live Website](https://your-portfolio-url.com)
+- 🌐 **Portfolio**: [Live Website](https://nzehdivine.vercel.app/)
 - 📍 **Location**: Lagos, Nigeria (Remote OK)
 
 ---
