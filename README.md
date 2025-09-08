@@ -59,24 +59,25 @@ I'm **Divine Nzeh**, a strategic Full-stack Software Engineer from Lagos, Nigeri
 | **AI/ML** | Machine Learning, Python | 55% |
 
 ---
-
 ## 🚀 **Featured Projects**
 
-### **🎯 Cilents Projects**
-- **FiguresHub Africa** - Custom web application ![fha](https://figureshubafrica.com/)
-- **Kstudy Learning** - Educational platform. built with react.js, node.js,express.js, mongoDB, Stripe. IT is also a CMS built with react as well. ![kstudy](https://kstudylearning.com/)
- - **KCMS Academy** - A Tech Educational LMS. built with react.js, supabase, Stripe. IT is also a CMS built with react as well. ![kcms](https://training.kingofcms.net/)
-- **chatlola website and plugin** - AI chatbot plugin for wordpress. built with wordpress ![chatlola](https://www.chatlola.com/)
-- **richy beauty cosmetics** - Web design for a cosmetic store.built with react  ![richy](https://richybeauty.vercel.app/)
+### **🎯 Clients Projects**
+- **FiguresHub Africa** - Custom web application [Visit FiguresHub Africa](https://figureshubafrica.com/)
+- **Kstudy Learning** - Educational platform built with React.js, Node.js, Express.js, MongoDB, Stripe. It is also a CMS built with React as well. [Visit Kstudy Learning](https://kstudylearning.com/)
+- **KCMS Academy** - A Tech Educational LMS built with React.js, Supabase, Stripe. It is also a CMS built with React as well. [Visit KCMS Academy](https://training.kingofcms.net/)
+- **Chatlola Website and Plugin** - AI chatbot plugin for WordPress built with WordPress. [Visit Chatlola](https://www.chatlola.com/)
+- **Richy Beauty Cosmetics** - Web design for a cosmetic store built with React. [Visit Richy Beauty](https://richybeauty.vercel.app/)
 
 ### **💡 Personal Projects**
-- **Reqtest** - An AI API testing tool built with react, supabase and llama LLM model ![fha](https://reqtest.cyou/)
-- **KYCPLayground** - A KYC stimulation plaground built on Next.JS and appwrite. ![kstudy](https://kycplayground.vercel.app/)
-- **Mobile banking app UI** - A mobile banking app UI built with flutter. ![bank](https://github.com/divo662/mobile-banking-app-ui)
-- **Ilera** -  Flutter application that helps users generate personalized, health-focused weekly meal plans with authentic Nigerian cuisine.  built with flutter. ![food](https://github.com/divo662/ilera-app/)
+- **Reqtest** - An AI API testing tool built with React, Supabase and Llama LLM model. [Visit Reqtest](https://reqtest.cyou/)
+- **KYCPlayground** - A KYC simulation playground built on Next.js and Appwrite. [Visit KYCPlayground](https://kycplayground.vercel.app/)
+- **Mobile Banking App UI** - A mobile banking app UI built with Flutter. [View on GitHub](https://github.com/divo662/mobile-banking-app-ui)
+- **Ilera** - Flutter application that helps users generate personalized, health-focused weekly meal plans with authentic Nigerian cuisine built with Flutter. [View on GitHub](https://github.com/divo662/ilera-app/)
 
 ### **🤖 AI Projects**
-- **Mealera AI** - Nigerian food/wellness AI model  ![mealera](https://huggingface.co/divoishim/mealera)
+- **Mealera AI** - Nigerian food/wellness AI model. [View on Hugging Face](https://huggingface.co/divoishim/mealera)
+
+---
 
 ---
 
