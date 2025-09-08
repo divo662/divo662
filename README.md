@@ -13,7 +13,8 @@
 I'm **Divine Nzeh**, a strategic Full-stack Software Engineer from Lagos, Nigeria, who architects solutions that matter. I focus on solving real problems for real people, thinking strategically, designing intentionally, and building relentlessly.
 
 ### **Current Role**
-- **Software Engineer** at King of CMS (Dec 2024 - Present)
+- freelancer
+- **Software Engineer** at King of CMS (Dec 2024 - August 2025)
 - **Lead WordPress and Moodle implementations**
 - **Develop custom web and mobile applications**
 
