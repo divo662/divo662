@@ -63,21 +63,21 @@ I'm **Divine Nzeh**, a strategic Full-stack Software Engineer from Lagos, Nigeri
 
 ## 🚀 **Featured Projects**
 
-### **🎯 Company Projects**
-- **King of CMS Website** - Lead WordPress implementation
-- **FiguresHub Africa** - Custom web application
-- **Kstudy Learning** - Educational platform
-- **Tech FiguresHub Africa** - Technology solutions
+### **🎯 Cilents Projects**
+- **FiguresHub Africa** - Custom web application ![fha](https://figureshubafrica.com/)
+- **Kstudy Learning** - Educational platform. built with react.js, node.js,express.js, mongoDB, Stripe. IT is also a CMS built with react as well. ![kstudy](https://kstudylearning.com/)
+ - **KCMS Academy** - A Tech Educational LMS. built with react.js, supabase, Stripe. IT is also a CMS built with react as well. ![kcms](https://training.kingofcms.net/)
+- **chatlola website and plugin** - AI chatbot plugin for wordpress. built with wordpress ![chatlola](https://www.chatlola.com/)
+- **richy beauty cosmetics** - Web design for a cosmetic store.built with react  ![richy](https://richybeauty.vercel.app/)
 
 ### **💡 Personal Projects**
-- **GainLove** - Charity website platform
-- **Ridez** - Cycling e-commerce app
-- **Portly Web** - Next.js portfolio builder
-- **Monity Web** - Financial tracking app
+- **Reqtest** - An AI API testing tool built with react, supabase and llama LLM model ![fha](https://reqtest.cyou/)
+- **KYCPLayground** - A KYC stimulation plaground built on Next.JS and appwrite. ![kstudy](https://kycplayground.vercel.app/)
+- **Mobile banking app UI** - A mobile banking app UI built with flutter. ![bank](https://github.com/divo662/mobile-banking-app-ui)
+- **Ilera** -  Flutter application that helps users generate personalized, health-focused weekly meal plans with authentic Nigerian cuisine.  built with flutter. ![food](https://github.com/divo662/ilera-app/)
 
 ### **🤖 AI Projects**
-- **Mealera AI** - Nigerian food/wellness AI model
-- **YarnGPT** - Text-to-Speech application
+- **Mealera AI** - Nigerian food/wellness AI model  ![mealera](https://huggingface.co/divoishim/mealera)
 
 ---
 
